@@ -1,4 +1,4 @@
-# Desafio de Prompt Injection em LLM – Write-up
+# Evil-GPT V2 – Write-up
 
 ## Introdução
 
